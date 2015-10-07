@@ -1,17 +1,17 @@
 ## Sivan Patel
-
+<b>stuck here</b><br>
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ##Project Examples
 |Project Name | Description |
 |-------------|-------------|
 | <a href="https://github.com/ShuflCast/randCast">rand(Cast)</a>  | Final project submission for Makers Academy. A mobile Ionic app that randomly generates new podcasts based on the users genre and time frame requirements. |
-| <a href="https://github.com/sivanpatel/onTap_2">onTap</a> | ...update once github is updated |
+| <a href="https://github.com/sivanpatel/onTap_2">onTap</a> | A web app built with Angular to find pubs that are local to you, built in 2 days during a hackathon |
+|others to |be added|
 
 ## Skills
-
+<b>STILL STUCK HERE</b>
 #### This Skill
-
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Experience
