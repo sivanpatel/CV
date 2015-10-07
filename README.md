@@ -1,6 +1,12 @@
-## Your Name
+## Sivan Patel
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+##Project Examples
+|Project Name | Description |
+|-------------|-------------|
+| <a href="https://github.com/ShuflCast/randCast">rand(Cast)</a>  | Final project submission for Makers Academy. A mobile Ionic app that randomly generates new podcasts based on the users genre and time frame requirements. |
+| <a href="https://github.com/sivanpatel/onTap_2">onTap</a> | ...update once github is updated |
 
 ## Skills
 
@@ -23,26 +29,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July - October 2015)
 
-- Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Angular.js, Ionic, Swift
+- Rspec, Jasmine, Karma, Protractor
 
-#### Your University / College (start_date to end_date)
+#### King's College London (2012-15)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Physics BSc
+- I still have to take 2 more exams so am yet to complete this degree
+- (Don't really know how to phrase this or even if I should put it in)
 
 #### Any other qualifications
 
+- Kayaking instructor (??)
+
+#####
+
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Churchill Express** (October 2011 - May 2012)    
+*Bicycle Courier*  
+**Jasmine Dental Centre** (September 2009 - June 2010)   
+*Receptionist*  
