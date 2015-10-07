@@ -1,8 +1,13 @@
-## Your Name
+## Brandon Graves
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a Junior Web Developer who enjoys writing clean, test-driven code. I have recently graduated from the highly selective Makers Academy in which I have gained a number of skills to kickstart my Development career. I am looking for a job in which I can --blahblah--  : I work best in teams and would love to work in a place with a fun environment and a strong sense of community.
 
-## Skills
+|Project Name | Description |
+|-------------|-------------|
+| [Vary Pixel] (https://github.com/bgraves14/vary-pixel) | Final project submission for Makers Academy. An Angular website for collaborative pixel art. |
+| [OnTap] (https://github.com/bgraves14/onTap_2) | A pub finding app created during a two day hack-a-thon. |
+
+## Skills --ADD A SKILL--
 
 #### This Skill
 
@@ -12,37 +17,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Makers Academy (July 2015 - October 2015)
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-
-- Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Rspec, Jasmine, Protractor
 
-#### Your University / College (start_date to end_date)
+## Other Qualifications
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- I worked as a Free-dive instructor for guests of Nihiwatu Retreat. In this position I was able to double the breath holding ability of over 50 of Nihiwatu’s surfing and diving guests.
 
-#### Any other qualifications
+- I interned for six months at Nihiwatu Retreat, a highly awarded 5 star eco-tourism resort on the island of Sumba in Indonesia. During my time at Nihiwatu I trained and worked in various departments from Food and Beverage, to Water Sports and Guest Relations, all under highly qualified GM’s, the owners and the department heads.
+
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Visual System** (August 2014 to May 2015)    
+*Lighting Engineer*  
+
+**Nihiwatu** (add dates)
+*Intern*
+
