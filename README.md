@@ -5,7 +5,7 @@ I am a Junior Web Developer who enjoys writing clean, test-driven code. I have r
 |Project Name | Description |
 |-------------|-------------|
 | [Vary Pixel] (https://github.com/bgraves14/vary-pixel) | Final project submission for Makers Academy. An Angular website for collaborative pixel art. |
-| [OnTap] (https://github.com/bgraves14/onTap_2) | A pub finding app created during a two day hack-a-thon. |
+| [OnTap] (https://github.com/bgraves14/onTap_2) | A pub finding app created with Angular created during a two day hack-a-thon. |
 
 ## Skills --ADD A SKILL--
 
@@ -37,5 +37,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Lighting Engineer*  
 
 **Nihiwatu** (add dates)
+
 *Intern*
 
