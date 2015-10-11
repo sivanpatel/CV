@@ -1,24 +1,26 @@
 ## Sivan Patel
-<b>stuck here</b><br>
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+An enthusiastic and dedicated junior web developer. Having started to code during my time at university, I was eager to delve more into the world of tech and so upon leaving I applied to Makers Academy in order to learn more.
+
+I am looking to start a career in an environment which will help me to continue learning and honing the skills that I have begun to develop.
+
 
 ##Project Examples
 |Project Name | Description |
 |-------------|-------------|
 | <a href="https://github.com/ShuflCast/randCast">rand(Cast)</a>  | Final project submission for Makers Academy. A mobile Ionic app that randomly generates new podcasts based on the users genre and time frame requirements. |
-| <a href="https://github.com/sivanpatel/onTap_2">onTap</a> | A web app built with Angular to find pubs that are local to you, built in 2 days during a hackathon |
-|others to |be added|
+| <a href="https://github.com/sivanpatel/onTap_2">onTap</a> | A web app built with Angular to find pubs that are local to you, built in 2 days during a hackathon. The Yelp and Google Maps api were used to find pubs and display them on a map. |
+|<a href="https://github.com/katylouise/FireFlyApp">FireFly</a> |An instagram clone made in swift in 3 days during lab week|
 
 ## Skills
-<b>STILL STUCK HERE</b>
-#### This Skill
+#### Software Development
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Teamwork
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -27,11 +29,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+#### Efficient Research
+
 ## Education
 
 #### Makers Academy (July - October 2015)
 
 - Independent learner and problem-solver
+- Pair programming
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Angular.js, Ionic, Swift
