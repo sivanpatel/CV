@@ -1,42 +1,60 @@
 ## Brandon Graves
 
-I am a Junior Web Developer who enjoys writing clean, test-driven code. I have recently graduated from the highly selective Makers Academy in which I have gained a number of skills to kickstart my Development career. I am looking for a job in which I can --blahblah--  : I work best in teams and would love to work in a place with a fun environment and a strong sense of community.
+He enjoys to turn ideas from scratch into fully-fledged products that people love using. 
+Grew up in Bali and Indonesia, lived in LA, and traveled extensively across Europe. He is most excited to join a team full of diversity with a work culture where continuous learning is embraced.
+Certainly, closed rooms full of robot-like people is not his thing.
+Check out his projects below.
 
-|Project Name | Description |
-|-------------|-------------|
-| [Vary Pixel] (https://github.com/bgraves14/vary-pixel) | Final project submission for Makers Academy. An Angular website for collaborative pixel art. |
-| [OnTap] (https://github.com/bgraves14/onTap_2) | A pub finding app created with Angular created during a two day hack-a-thon. |
 
-## Skills --ADD A SKILL--
+### Education
 
-#### This Skill
+#### Makers Academy (July 2015 - October 2015) - Europe's #1 coding boot camp.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Makers Academy (July 2015 - October 2015)
-
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Methodologies: OOP, TDD, SOLID, MVC, DDD
+- Languages: Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Protractor
+#### The Internet .
+quick blurb about self-learning
 
-## Other Qualifications
-
-- I worked as a Free-dive instructor for guests of Nihiwatu Retreat. In this position I was able to double the breath holding ability of over 50 of Nihiwatu’s surfing and diving guests.
-
-- I interned for six months at Nihiwatu Retreat, a highly awarded 5 star eco-tourism resort on the island of Sumba in Indonesia. During my time at Nihiwatu I trained and worked in various departments from Food and Beverage, to Water Sports and Guest Relations, all under highly qualified GM’s, the owners and the department heads.
+##PROJECTS
+|Project Name | Description |technologies | 
+|-------------|-------------|-------------|
+|-------------|-------------|-------------|
+| [Vary Pixel](https://github.com/bgraves14/vary-pixel) | An Angular website for collaborative pixel art. |
+| [OnTap](https://github.com/bgraves14/onTap_2) | A pub finding app created with Angular created during a two day hack-a-thon. |
 
 
 ## Experience
 
-**Visual System** (August 2014 to May 2015)    
+**Visual System** 			--------August 2014 - May 2015
 *Lighting Engineer*  
 
 **Nihiwatu** (add dates)
 
 *Intern*
+
+- I worked as a Free-dive instructor for guests of Nihiwatu Retreat. In this position I was able to double the breath holding ability of over 50 of Nihiwatu’s surfing and diving guests.
+
+- a highly awarded 5 star eco-tourism resort on the island of Sumba in Indonesia. (IN THE name title)
+-  Trained and worked in various departments from Food and Beverage, to Water Spo rts and Guest Relations, all under highly qualified General Managers.
+
+## Skills
+
+#### Agile Methodologies Advocate
+
+I understand that in development one of the most crucial aspects is being able to work well and communicate with your colleague's. In my short time as a developer I have paired every 
+
+Pair-programming
+	- 12 weeks with diverse partners (culture & age-wise)
+	- Online - hangout, Screenhero,  & physical
+	- 
+retro
+What solutions came about from performing retros?
+
+stand-up
+Leading role in any project because you  
+
+Git-Control
+You explain what the flow was when pairing
+
 
