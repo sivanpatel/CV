@@ -1,7 +1,7 @@
 ## Brandon Graves
 
-He enjoys to turn ideas from scratch into fully-fledged products that people love using. 
-Grew up in Bali and Indonesia, lived in LA, and traveled extensively across Europe. He is most excited to join a team full of diversity with a work culture where continuous learning is embraced.
+He enjoys turning ideas from scratch into fully-fledged products that people love using. 
+Grew up in Bali, Indonesia, lived in LA, and has traveled extensively around the world. He is excited to join a team full of diversity with a work culture where continuous learning is embraced.
 Certainly, closed rooms full of robot-like people is not his thing.
 Check out his projects below.
 
@@ -12,49 +12,56 @@ Check out his projects below.
 
 - Methodologies: OOP, TDD, SOLID, MVC, DDD
 - Languages: Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Protractor
-#### The Internet .
-quick blurb about self-learning
+- Testing: Rspec, Jasmine, Protractor, Karma, Capybara, Cucumber
+#### The Internet 
+The Internet has been his biggest learning tool so far. As a strong independent learner he knows how to utilise it to its full extent for finding answers and discovering new great technologies .
 
 ##PROJECTS
 |Project Name | Description |technologies | 
 |-------------|-------------|-------------|
-|-------------|-------------|-------------|
-| [Vary Pixel](https://github.com/bgraves14/vary-pixel) | An Angular website for collaborative pixel art. |
-| [OnTap](https://github.com/bgraves14/onTap_2) | A pub finding app created with Angular created during a two day hack-a-thon. |
+| [Vary Pixel](https://github.com/bgraves14/vary-pixel) | An Angular website for collaborative pixel art. | Angular, JavaScript, NodeJs, Express, Parse, Socket.io. 
+| [OnTap](https://github.com/bgraves14/onTap_2) | A pub finding app created with Angular created during a two day hack-a-thon. | AngularJs, JavaScript, Karma, Yelp API, HTML5, CSS 
 
 
 ## Experience
 
-**Visual System** 			--------August 2014 - May 2015
-*Lighting Engineer*  
+**Visual System**, A L.E.D-based art collective from Paris doing world class light shows across Europe and Internationally   			----August 2014 - May 2015
 
-**Nihiwatu** (add dates)
+- Set-up numerous projects from the nuts and bolts to electrical/wiring in numerous French cities.
 
-*Intern*
+- As well as being the only native English speaker I worked on the social media and promotional side for clients outside of France.
 
-- I worked as a Free-dive instructor for guests of Nihiwatu Retreat. In this position I was able to double the breath holding ability of over 50 of Nihiwatu’s surfing and diving guests.
 
-- a highly awarded 5 star eco-tourism resort on the island of Sumba in Indonesia. (IN THE name title)
--  Trained and worked in various departments from Food and Beverage, to Water Spo rts and Guest Relations, all under highly qualified General Managers.
+**Nihiwatu**, A highly awarded 5 star eco-tourism resort on the island of Sumba in Indonesia.  (add dates)
+
+-  Trained and worked in various departments from Food and Beverage, to Water Sports and Guest Relations, all under highly qualified General Managers
+
+- Worked as a Free-dive instructor for guests of Nihiwatu Retreat. In this position I was able to double the breath holding ability of over 50 of Nihiwatu’s surfing and diving guests.
+
 
 ## Skills
 
 #### Agile Methodologies Advocate
 
-I understand that in development one of the most crucial aspects is being able to work well and communicate with your colleague's. In my short time as a developer I have paired every 
+- 12 weeks of programming using purely the AGILE methodology.
 
-Pair-programming
-	- 12 weeks with diverse partners (culture & age-wise)
-	- Online - hangout, Screenhero,  & physical
-	- 
-retro
-What solutions came about from performing retros?
+- Strong understanding of why it is useful and necessary for development.
 
-stand-up
-Leading role in any project because you  
+####Pair-programming
 
-Git-Control
-You explain what the flow was when pairing
+- 12 weeks of face-to-face pair experience with diverse partners (culture & age).
 
+- Online using technologies such as Google Hangout and Screenhero.
+
+#### Communicative
+
+- Strongly recommending my teams to run retrospectives to keep communication strong and everyone informed on the challenges we had and how we could make improvements for the future
+
+- Constantly pushing my teams to have stand-ups twice a day to make sure that everyone is aware on what is happening across the project. As well sharing ideas and solving any major blockers that anybody is experiencing. 
+
+#### Version control
+
+-  Experienced and firm believer in version control and its many benefits.
+
+- Always using good practice such as having development branches, branches for each issue a team member is working on and only merging to master once pull requests are checked and approved by other team members.
 
