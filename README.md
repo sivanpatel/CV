@@ -5,31 +5,27 @@ An enthusiastic and dedicated junior web developer. Having started to code durin
 I am looking to start a career in an environment which will help me to continue learning and honing the skills that I have begun to develop.
 
 
-##Project Examples
+## Project Examples
+
 |Project Name | Description |
 |-------------|-------------|
-| <a href="https://github.com/ShuflCast/randCast">rand(Cast)</a>  | Final project submission for Makers Academy. A mobile Ionic app that randomly generates new podcasts based on the users genre and time frame requirements. |
-| <a href="https://github.com/sivanpatel/onTap_2">onTap</a> | A web app built with Angular to find pubs that are local to you, built in 2 days during a hackathon. The Yelp and Google Maps api were used to find pubs and display them on a map. |
-|<a href="https://github.com/katylouise/FireFlyApp">FireFly</a> |An instagram clone made in swift in 3 days during lab week|
+| <a href="https://github.com/ShuflCast/randCast">rand(Cast)</a>  | Final project submission for Makers Academy. A mobile Ionic app that finds new podcasts based on the users genre and time frame requirements. |
+| <a href="https://github.com/sivanpatel/onTap_2">onTap</a> | A web app built with Angular to find pubs that are local to you, built in 2 days during a hackathon. The Yelp and Google Maps API's were used to find pubs and display them on a map. |
+|<a href="https://github.com/katylouise/FireFlyApp">FireFly</a> |An Instagram clone made using Swift in 3 days during lab week|
 
 ## Skills
-#### Software Development
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
+#### Love the Struggle
+For the last three months, every day has been a struggle. I have learnt to become comfortable in this situation; not knowing what to do has become a regular occurance for me.
 
-#### Teamwork
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Through this, I am constantly learning.
 
 #### Efficient Research
+
+At Makers Academy, lots of emphasis is placed on self-learning. This was a great contrast from my time at university where lots of the work was hand-held. At Makers Academy I have had to improve my research skills in order to learn things for myself. I have found that this has increased my knowledge retention greatly.
+
+An example of this is during lab week; in a team of three we learnt the basics of Swift and made an Instagram clone app: FireFly (as linked above) in three days.
+
 
 ## Education
 
@@ -42,17 +38,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Angular.js, Ionic, Swift
 - Rspec, Jasmine, Karma, Protractor
 
-#### King's College London (2012-15)
+#### King's College London (2012 - )
 
-- Physics BSc
-- I still have to take 2 more exams so am yet to complete this degree
-- (Don't really know how to phrase this or even if I should put it in)
+- Physics BSc (graduating July 2016)
 
 #### Any other qualifications
 
-- Kayaking instructor (??)
+- Kayaking instructor
 
-#####
 
 ## Experience
 
