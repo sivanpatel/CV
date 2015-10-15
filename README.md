@@ -7,9 +7,12 @@ I am looking to start a career in an environment which will help me to continue 
 ## Skills
 
 #### Love the Struggle
-For the last three months, every day has been a struggle. I have learnt to become comfortable in this situation; not knowing what to do has become a regular occurance for me. Failure has become my first step to success. Often I will find myself stuck with a problem but through struggling, failing, and asking the right questions, I will succeed.
+For the last three months, every day has been a struggle. I have learnt to become comfortable in this situation; not knowing what to do has become a regular occurance for me.
 
-Through this, I am learning how to become a developer.
+In my previous job as a bicycle courier, I had no idea what I was doing and almost gave up as soon as I had started. Instead, I decided to stick it out; I learnt the routes, I learnt the job, and within two months I was one of the highest paid couriers at my company.
+
+
+Through this struggle, I am learning how to become a developer.
 
 #### Efficient Research
 
@@ -23,7 +26,7 @@ An example of this is during lab week; in a team of three we learnt the basics o
 |-------------|-------------|
 | <a href="https://github.com/ShuflCast/randCast">rand(Cast)</a>  | Final project submission for Makers Academy. A mobile Ionic app that finds new podcasts based on the users genre and time frame requirements. |
 | <a href="https://github.com/sivanpatel/onTap_2">onTap</a> | A web app built with AngularJS to find pubs that are local to you, built in 2 days during a hackathon. The Yelp and Google Maps APIs were used to find pubs and display them on a map. |
-|<a href="https://github.com/katylouise/FireFlyApp">FireFly</a> | An Instagram clone made using Swift in 3 days, during lab week|
+|<a href="https://github.com/sivanpatel/FireFlyApp">FireFly</a> | An Instagram clone made using Swift in 3 days, during lab week|
 
 
 
@@ -31,7 +34,7 @@ An example of this is during lab week; in a team of three we learnt the basics o
 
 #### Makers Academy (July - October 2015)
 
-- Emphasis on pair programming and agile methodology
+- Emphasis on pair programming and Agile philosophy
 - OOP, TDD, SOLID, MVC, DDD
 - Languages and Frameworks: Ruby, Rails, Javascript, Angular.js, Ionic, Swift
 - Testing Frameworks: Rspec, Jasmine, Karma, Protractor
