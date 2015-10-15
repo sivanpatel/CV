@@ -11,6 +11,8 @@ For the last three months, every day has been a struggle. I have learnt to becom
 
 In my previous job as a bicycle courier, I had no idea what I was doing and almost gave up as soon as I had started. Instead, I decided to stick it out; I learnt the routes, I learnt the job, and within two months I was one of the highest paid couriers at my company.
 
+<br>or<br>
+explain struggles with final project and angular
 
 Through this struggle, I am learning how to become a developer.
 
