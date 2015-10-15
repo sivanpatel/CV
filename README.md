@@ -4,15 +4,6 @@ An enthusiastic and dedicated junior web developer. Having started to code durin
 
 I am looking to start a career in an environment which will help me to continue learning and honing the skills that I have begun to develop.
 
-
-## Project Examples
-
-|Project Name | Description |
-|-------------|-------------|
-| <a href="https://github.com/ShuflCast/randCast">rand(Cast)</a>  | Final project submission for Makers Academy. A mobile Ionic app that finds new podcasts based on the users genre and time frame requirements. |
-| <a href="https://github.com/sivanpatel/onTap_2">onTap</a> | A web app built with AngularJS to find pubs that are local to you, built in 2 days during a hackathon. The Yelp and Google Maps APIs were used to find pubs and display them on a map. |
-|<a href="https://github.com/katylouise/FireFlyApp">FireFly</a> | An Instagram clone made using Swift in 3 days, during lab week|
-
 ## Skills
 
 #### Love the Struggle
@@ -24,7 +15,16 @@ Through this, I am learning how to become a developer.
 
 At Makers Academy, lots of emphasis is placed on self-learning. This was a great contrast from my time at university where lots of the work was hand-held. At Makers Academy I have had to improve my research skills in order to learn things for myself. I have found that this has increased my knowledge retention greatly.
 
-An example of this is during lab week; in a team of three we learnt the basics of Swift and made an Instagram clone app - FireFly (as linked above) - in three days.
+An example of this is during lab week; in a team of three we learnt the basics of Swift and made an Instagram clone app - FireFly (as linked below) - in three days.
+
+## Project Examples
+
+|Project Name | Description |
+|-------------|-------------|
+| <a href="https://github.com/ShuflCast/randCast">rand(Cast)</a>  | Final project submission for Makers Academy. A mobile Ionic app that finds new podcasts based on the users genre and time frame requirements. |
+| <a href="https://github.com/sivanpatel/onTap_2">onTap</a> | A web app built with AngularJS to find pubs that are local to you, built in 2 days during a hackathon. The Yelp and Google Maps APIs were used to find pubs and display them on a map. |
+|<a href="https://github.com/katylouise/FireFlyApp">FireFly</a> | An Instagram clone made using Swift in 3 days, during lab week|
+
 
 
 ## Education
