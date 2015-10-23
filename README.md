@@ -6,25 +6,15 @@ I am looking to start a career in an environment which will help me to continue 
 
 ## Skills
 
-#### Love the Struggle
-For the last three months, every day has been a struggle. I have learnt to become comfortable in this situation; not knowing what to do has become a regular occurance for me.
-
-Through this struggle, I am learning how to become a developer.
-
 #### Efficient Research
 
 At Makers Academy, lots of emphasis is placed on self-learning. This was a great contrast from my time at university where lots of the work was hand-held. At Makers Academy I have had to improve my research skills in order to learn things for myself. I have found that this has increased my knowledge retention greatly.
 
-<b>change this up a bit</b>
-
 An example of this is during lab week; in a team of three we learnt the basics of Swift and made an Instagram clone app - FireFly (as linked below) - in three days.
 
 #### Teamwork
-  - Distributed work
-  - Led stand ups
-  - Pairing
-  -
-
+During my final project, I worked with an Agile philosophy. I often ran afternoon standups with another team member running the morning ones. I also helped to delegate tasks via a kanban board (using waffle.io). I also helped to manage the teams Git-Flow using multiple branches for various tickets on our Kanban board. 
+Being an Alumni Helper at Makers Academy has also helped me improve my technical communication skills; both asking and answering questions.
 
 
 ## Project Examples
