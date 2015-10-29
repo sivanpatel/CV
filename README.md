@@ -10,6 +10,7 @@ I am looking to start a career in an environment which will help me to continue 
 
 At Makers Academy, lots of emphasis is placed on self-learning. This was a great contrast from my time at university where lots of the work was hand-held. At Makers Academy I have had to improve my research skills in order to learn things for myself. I have found that this has increased my knowledge retention greatly.
 
+
 An example of this is during lab week; in a team of three we learnt the basics of Swift and made an Instagram clone app - FireFly (as linked below) - in three days.
 
 #### Teamwork
