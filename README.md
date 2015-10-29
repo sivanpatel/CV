@@ -1,5 +1,5 @@
 ## Sivan Patel
-
+   
 An enthusiastic and dedicated junior web developer. Having started to code during my time at university, I was eager to delve more into the world of tech and so upon leaving I applied to Makers Academy in order to learn more.
 
 I am looking to start a career in an environment which will help me to continue learning and honing the skills that I have begun to develop.
