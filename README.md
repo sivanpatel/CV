@@ -1,5 +1,5 @@
 ## Sivan Patel
-   
+
 An enthusiastic and dedicated junior web developer. Having started to code during my time at university, I was eager to delve more into the world of tech and so upon leaving I applied to Makers Academy in order to learn more.
 
 I am looking to start a career in an environment which will help me to continue learning and honing the skills that I have begun to develop.
@@ -14,7 +14,7 @@ At Makers Academy, lots of emphasis is placed on self-learning. This was a great
 An example of this is during lab week; in a team of three we learnt the basics of Swift and made an Instagram clone app - FireFly (as linked below) - in three days.
 
 #### Teamwork
-During my final project, I worked with an Agile philosophy. I often ran afternoon standups with another team member running the morning ones. I also helped to delegate tasks via a kanban board (using waffle.io). I also helped to manage the teams Git-Flow using multiple branches for various tickets on our Kanban board. 
+During my final project, I worked with an Agile philosophy. I often ran afternoon standups with another team member running the morning ones. I also helped to delegate tasks via a kanban board (using waffle.io). I also helped to manage the teams Git-Flow using multiple branches for various tickets on our Kanban board.
 Being an Alumni Helper at Makers Academy has also helped me improve my technical communication skills; both asking and answering questions.
 
 
