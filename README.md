@@ -49,3 +49,5 @@ Being an Alumni Helper at Makers Academy has also helped me improve my technical
 *Bicycle Courier*  
 **Jasmine Dental Centre** (September 2009 - June 2010)   
 *Receptionist*  
+**Oh My Dog Hot Dogs** (June 2015 - )
+*Chef*
