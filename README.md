@@ -1,4 +1,4 @@
-## Sivan Patel
+Sivan Patel
 
 An enthusiastic and dedicated junior web developer. Having started to code during my time at university, I was eager to delve more into the world of tech and so upon leaving I applied to Makers Academy in order to learn more.
 
@@ -23,7 +23,7 @@ Being an Alumni Helper at Makers Academy has also helped me improve my technical
 |Project Name | Description |
 |-------------|-------------|
 | <a href="https://github.com/ShuflCast/randCast">rand(Cast)</a>  | Final project submission for Makers Academy. A mobile Ionic app that finds new podcasts based on the users genre and time frame requirements. |
-| <a href="https://github.com/sivanpatel/onTap_2">onTap</a> | A web app built with AngularJS to find pubs that are local to you, built in 2 days during a hackathon. The Yelp and Google Maps APIs were used to find pubs and display them on a map. |
+| <a href="http://on-tap.herokuapp.com/">onTap</a> | A web app built with AngularJS to find pubs that are local to you, built in 2 days during a hackathon. The Yelp and Google Maps APIs were used to find pubs and display them on a map. |
 |<a href="https://github.com/sivanpatel/FireFlyApp">FireFly</a> | An Instagram clone made using Swift in 3 days, during lab week|
 
 
@@ -32,8 +32,7 @@ Being an Alumni Helper at Makers Academy has also helped me improve my technical
 
 #### Makers Academy (July - October 2015)
 
-- Emphasis on pair programming and Agile philosophy
-- OOP, TDD, SOLID, MVC, DDD
+- Emphasis on Agile methodologies - daily stand-ups and pair programming
 - Languages and Frameworks: Ruby, Rails, Javascript, Angular.js, Ionic, Swift
 - Testing Frameworks: Rspec, Jasmine, Karma, Protractor
 - Made an Alumni Helper upon graduation: to help the current students with technical problems
