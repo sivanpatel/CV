@@ -22,7 +22,7 @@ Being an Alumni Helper at Makers Academy has also helped me improve my technical
 
 |Project Name | Description |
 |-------------|-------------|
-| <a href="https://randcast.herokuapp.com">rand(Cast)</a>  | Final project submission for Makers Academy. A mobile Ionic app that finds new podcasts based on the users genre and time frame requirements. |
+| <a href="https://randcast.herokuapp.com">rand(Cast)</a>  | Final project submission for Makers Academy. A mobile Ionic app that finds new podcasts based on the users genre and time frame requirements. A live demo vide of the app can be found <a href="https://www.youtube.com/watch?v=CnNOxKSKrL8">here.</a> |
 | <a href="http://on-tap.herokuapp.com/">onTap</a> | A web app built with AngularJS to find pubs that are local to you, built in 2 days during a hackathon. The Yelp and Google Maps APIs were used to find pubs and display them on a map. |
 |<a href="https://github.com/sivanpatel/FireFlyApp">FireFly</a> | An Instagram clone made using Swift in 3 days, during lab week|
 
